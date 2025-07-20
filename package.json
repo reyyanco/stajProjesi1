@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@mediapipe/hands": "^0.4.1675469240",
+    "@teachablemachine/image": "^0.8.5",
     "@tensorflow-models/coco-ssd": "^2.2.3",
     "@tensorflow-models/hand-pose-detection": "^2.0.1",
     "@tensorflow/tfjs": "^4.22.0",
